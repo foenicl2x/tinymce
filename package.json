@@ -1,0 +1,59 @@
+{
+  "_from": "tinymce@^5.0.3",
+  "_id": "tinymce@5.10.6",
+  "_inBundle": false,
+  "_integrity": "sha512-bnF2LUoycDsoZZLQBNHbOijrmoJuEeR1rQdqgo4s77BedufpOVnDh00OZKbseHeTMCxhVH05wvOqxLsi6vpeZw==",
+  "_location": "/tinymce",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "tinymce@^5.0.3",
+    "name": "tinymce",
+    "escapedName": "tinymce",
+    "rawSpec": "^5.0.3",
+    "saveSpec": null,
+    "fetchSpec": "^5.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmmirror.com/tinymce/-/tinymce-5.10.6.tgz",
+  "_shasum": "ea03927e9d20c035619dfd32ec4fd471c55e32c5",
+  "_spec": "tinymce@^5.0.3",
+  "_where": "D:\\demo\\SVN\\国内\\国内開発部\\06_作業\\8D\\20_代码\\branches\\TQSCloud_Ver2.0\\1_前端\\QualityManagement",
+  "author": {
+    "name": "Tiny Technologies, Inc"
+  },
+  "bugs": {
+    "url": "https://github.com/tinymce/tinymce/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Web based JavaScript HTML WYSIWYG editor control.",
+  "homepage": "https://www.tiny.cloud/",
+  "keywords": [
+    "wysiwyg",
+    "tinymce",
+    "richtext",
+    "javascript",
+    "html",
+    "text",
+    "rich editor",
+    "rich text editor",
+    "rte",
+    "rich text",
+    "contenteditable",
+    "editing"
+  ],
+  "license": "LGPL-2.1",
+  "main": "tinymce.js",
+  "name": "tinymce",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinymce/tinymce.git",
+    "directory": "modules/tinymce"
+  },
+  "types": "tinymce.d.ts",
+  "version": "5.10.6"
+}
